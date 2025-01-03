@@ -3,15 +3,14 @@
 ## Table of Contents
 - [Description](#-description))
 - [Demonstration](#-Demonstration)
-- [Technologies Used](#-Technologies_Used)
-- [Key Features](#Key_Features)
-- [Example Usage](#example-usage)
-- [Dataset](#Dataset)
-- [Insights](#Insights_Drawn_from_Power_BI_Analysis)
-- [Conclusion](#Conclusion)
-- [Future_Scope](#Future_Scope)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Technologies Used](#-technologies-Used)
+- [Key Features](#-key-features)
+- [Dataset](#-dataset)
+- [Insights](#-insights-drawn-from-power-bi-analysis)
+- [Conclusion](#-conclusions)
+- [Future_Scope](#-future-scope)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 📝 Description
 
