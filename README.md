@@ -1,3 +1,5 @@
+---
+
 # 📊 Blinkit Sales Dashboard
 
 ## 📝 Description
@@ -17,7 +19,7 @@ This image showcases the Blinkit dashboard, highlighting key metrics such as tot
 ## 🛠️ Technologies Used
 
 - **Power BI**: For creating the dashboard and visualizing data.
-- **Data Sources**: Sample data emulating Blinkit’s sales and operational information.
+- **Data Sources**: A CSV file containing Blinkit’s sample sales and operational data.
 
 ---
 
@@ -39,6 +41,25 @@ This image showcases the Blinkit dashboard, highlighting key metrics such as tot
 
 4. **Outlet Comparison**:
    - View and compare metrics for various outlet types (e.g., Grocery Store, Supermarket Type 1).
+
+---
+
+## 📂 Dataset
+
+The dashboard uses a CSV file containing sample data for analysis. 
+
+- **File Name:** `blinkit_sales_data.csv`
+- **Download Link:** [blinkit_sales_data.csv](./blinkit_sales_data.csv)
+
+The dataset includes the following columns:
+- Outlet Type
+- Outlet Size
+- Item Type
+- Item Fat Content
+- Sales Figures
+- Number of Items Sold
+- Outlet Location Tier
+- Ratings
 
 ---
 
