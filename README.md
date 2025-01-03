@@ -1,5 +1,18 @@
 # 📊 Blinkit Sales Dashboard
 
+## Table of Contents
+- [Description](#Description)
+- [Demonstration](#Demonstration)
+- [Technologies Used](#Technologies_Used)
+- [Key Features](#Key_Features)
+- [Example Usage](#example-usage)
+- [Dataset](#Dataset)
+- [Insights](#Insights_Drawn_from_Power_BI_Analysis)
+- [Conclusion](#Conclusion)
+- [Future_Scope](#Future_Scope)
+- [Contributing](#Contributing)
+- [License](#License)
+
 ## 📝 Description
 
 The Blinkit Sales Dashboard is a Power BI visualization designed to provide actionable insights into Blinkit's operational and sales performance. This interactive dashboard enables users to explore data across various dimensions such as sales trends, item categories, outlet sizes, and geographic locations, making it a powerful tool for decision-making and strategy development.
