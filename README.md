@@ -39,7 +39,7 @@ This image showcases the Blinkit dashboard, highlighting key metrics such as tot
 The dashboard uses a CSV file containing sample data for analysis. 
 
 - **File Name:** `blinkit_sales_data.csv`
-- **Download Link:** [blinkit_sales_data.csv](./blinkit_sales_data.csv)
+- **Download Link:** [blinkit_sales_data.csv](./BlinkIT-Grocery-Data.csv)
 
 The dataset includes the following columns:
 - Outlet Type
