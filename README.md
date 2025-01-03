@@ -1,9 +1,9 @@
 # 📊 Blinkit Sales Dashboard
 
 ## Table of Contents
-- [Description](#-description))
+- [Description](#-description)
 - [Demonstration](#-Demonstration)
-- [Technologies Used](#-technologies-Used)
+- [Technologies Used](#-technologies-used)
 - [Key Features](#-key-features)
 - [Dataset](#-dataset)
 - [Insights](#-insights-drawn-from-power-bi-analysis)
