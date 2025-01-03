@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Description](#-description)
 - [Demonstration](#-Demonstration)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#https://github.com/Anirudhpatil367/Blinkit_Dashboard/blob/main/README.md#%EF%B8%8F-technologies-used)
 - [Key Features](#-key-features)
 - [Dataset](#-dataset)
 - [Insights](#-insights-drawn-from-power-bi-analysis)
